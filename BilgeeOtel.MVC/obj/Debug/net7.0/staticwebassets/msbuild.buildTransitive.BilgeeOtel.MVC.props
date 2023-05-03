@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\BilgeeOtel.MVC.props" />
+</Project>
