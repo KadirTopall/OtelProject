@@ -43,14 +43,7 @@ namespace BilgeOtel.DAL.Context
 
         //    base.OnModelCreating(modelBuilder);
         //}
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    if (!optionsBuilder.IsConfigured)
-        //    {
-        //        optionsBuilder.UseSqlServer("server=DESKTOP-I2PPH77;database=BilgeOtelProject;uid=sa;pwd=123; TrustServerCertificate=true");
-        //    }
-        //    base.OnConfiguring(optionsBuilder);
-        //}
+        
     }
 
 }
